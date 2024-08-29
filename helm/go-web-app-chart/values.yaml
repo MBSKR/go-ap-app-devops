@@ -8,7 +8,7 @@ image:
   repository: bhargav369/go-app
   pullPolicy: IfNotPresent
 # Overrides the image tag whose default is the chart appVersion.
-  tag: "go-sample"
+  tag: "10612791022"
 
 ingress:
   enabled: false
